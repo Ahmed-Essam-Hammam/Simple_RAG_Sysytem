@@ -1,4 +1,4 @@
-# 📚 Arabic RAG System
+# 📚 Simple RAG System
 
 A simple Retrieval-Augmented Generation (RAG) application built with LangChain, ChromaDB, and Streamlit. Upload a `.txt` file, ask questions, and get answers grounded in your document's content — powered by the Cerebras API.
 
