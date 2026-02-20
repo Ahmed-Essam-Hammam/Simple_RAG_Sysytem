@@ -15,7 +15,8 @@ RAG_/
 ├── rag_pipeline.py     # Vector store creation and RAG chain
 ├── requirements.txt    # Python dependencies
 ├── .env                # Your local secrets (not committed)
-└── .env.example        # Example env file
+├── .env.example        # Example env file
+└── .gitignore
 ```
 
 ---
